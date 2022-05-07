@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Jason Otter. 👋
+## I'm a Software Engineer from Orange County, CA.
+### I focus on building applications with Javascript.
 
 <!--
 **j-otterbox/j-otterbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
