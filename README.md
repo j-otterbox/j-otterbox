@@ -2,7 +2,7 @@
 
 # Hi, I'm Jason Otter. 👋
 
-### About Me
+### About Me :bust_in_silhouette:
 I'm a Software Engineer from Orange County, CA.
 I studied Computer Science at Cal State Fullerton.
 I focus on building applications with JavaScript.
