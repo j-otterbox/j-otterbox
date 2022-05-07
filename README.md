@@ -1,3 +1,5 @@
+![Banner Image](github-banner.png)
+
 # Hi, I'm Jason Otter. 👋
 
 ### About Me
