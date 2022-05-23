@@ -1,4 +1,4 @@
-![Banner Image](github-banner.png)
+![Banner Image](github-banner-may2022.png)
 
 # Hi, I'm Jason Otter. 👋
 
