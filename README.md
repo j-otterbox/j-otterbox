@@ -1,26 +1,28 @@
-![Banner Image](github-banner-may2022.png)
+<img src="https://i.imgur.com/X7Y3fQd.png" width="100%">
 
 # Hi, I'm Jason Otter. 👋
 
-### About Me :bust_in_silhouette:
+### About Me  :bust_in_silhouette:
 I'm a Software Engineer from Orange County, CA.
 I studied Computer Science at Cal State Fullerton.
 I focus on building applications with JavaScript.
 
-### I'm Looking to Collaborate :speech_balloon:
+### I'm Looking to Collaborate  :speech_balloon:
 I'm interested in opportunities to use my knowledge on projects that serve the community.
 I'm especially interested in healthcare or applied sciences and engineering.
-<!--
-**j-otterbox/j-otterbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect  :envelope:
+<p>
+  <a href="https://www.linkedin.com/in/jason-otter/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0072b1&style=flat&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/j_otterbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=1da1f2&style=flat&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=flat&logo=googlechrome&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/jason-otter-1" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=AngelList&color=cdf998&style=flat&logo=angellist&logo-color=white"/>
+  </a>
+</p>
