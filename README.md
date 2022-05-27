@@ -11,6 +11,9 @@ I focus on building applications with JavaScript.
 I'm interested in opportunities to use my knowledge on projects that serve the community.
 I'm especially interested in healthcare or applied sciences and engineering.
 
+### My Stats :bar_chart:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-otterbox&theme=github_dark&show_icons=true)
+
 ### Connect  :envelope:
 <p>
   <a href="https://www.linkedin.com/in/jason-otter/" target="_blank">
