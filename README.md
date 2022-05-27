@@ -14,6 +14,9 @@ I'm especially interested in healthcare or applied sciences and engineering.
 ### My Stats :bar_chart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-otterbox&theme=github_dark&show_icons=true)
 
+### Codewars :computer:
+[![Codewars Badge](https://www.codewars.com/users/jotter4321/badges/large)](https://www.codewars.com/users/jotter4321)
+
 ### Connect  :envelope:
 <p>
   <a href="https://www.linkedin.com/in/jason-otter/" target="_blank">
