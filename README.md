@@ -25,7 +25,7 @@ I'm especially interested in healthcare or applied sciences and engineering.
   <a href="https://twitter.com/j_otterbox" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=1da1f2&style=flat&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://jason-otter.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=23555f&style=flat&logo=googlechrome&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/jason-otter-1" target="_blank">
